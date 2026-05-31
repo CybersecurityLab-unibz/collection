@@ -24,8 +24,6 @@ Each top-level folder is a self-contained package or a supporting artefact. Pack
 
 | Folder | Description |
 | --- | --- |
-| [.git](.git) | Git version-control metadata for the collection. This supports repository history and submodule tracking and is not part of the replication data itself. |
-| [.idea](.idea) | IDE project settings for local development. This is repository metadata rather than a replication package. |
 | [AITDD](AITDD) | Replication package for the GenAI-assisted TDD study. It contains the collaborative workflow, the fully automated workflow, and the experimental data collected during the study. |
 | [Attack2VUL](Attack2VUL) | Replication package for linking attack descriptions to vulnerabilities. It contains the dataset, sentence-transformer pipelines, RAG-based variants, and supporting backend code. |
 | [CAIS-DMA](CAIS-DMA) | Decision-making assistant for collaborative AI systems. In this collection it is the main package connected to the green/resilience papers by Rimawi et al. |
