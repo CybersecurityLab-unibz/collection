@@ -22,16 +22,14 @@ Each top-level folder is a self-contained package or a supporting artefact. Pack
 
 ### Main replication packages
 
-| Folder | Description |
-| --- | --- |
-| [.git](.git) | Git version-control metadata for the collection. This supports repository history and submodule tracking and is not part of the replication data itself. |
-| [.idea](.idea) | IDE project settings for local development. This is repository metadata rather than a replication package. |
-| [AITDD](AITDD) | Replication package for the GenAI-assisted TDD study. It contains the collaborative workflow, the fully automated workflow, and the experimental data collected during the study. |
-| [Attack2VUL](Attack2VUL) | Replication package for linking attack descriptions to vulnerabilities. It contains the dataset, sentence-transformer pipelines, RAG-based variants, and supporting backend code. |
-| [CAIS-DMA](CAIS-DMA) | Decision-making assistant for collaborative AI systems. In this collection it is the main package connected to the green/resilience papers by Rimawi et al. |
-| [CrossDomainEvaluation](CrossDomainEvaluation) | Replication package for cross-domain evaluation of transformer-based vulnerability detection on open and industry data. This is an additional package in the collection beyond the papers listed above. |
-| [MADE-WIC](MADE-WIC) | Lightweight support folder for downloading the MADE-WIC dataset used by other vulnerability-related experiments. |
+| Folder                                                                   | Description |
+|--------------------------------------------------------------------------| --- |
+| [AI4TDD](AI4TDD)                                                         | Replication package for the GenAI-assisted TDD study. It contains the collaborative workflow, the fully automated workflow, and the experimental data collected during the study. |
+| [Attack2VUL](Attack2VUL)                                                 | Replication package for linking attack descriptions to vulnerabilities. It contains the dataset, sentence-transformer pipelines, RAG-based variants, and supporting backend code. |
+| [CAIS-DMA](CAIS-DMA)                                                     | Decision-making assistant for collaborative AI systems. In this collection it is the main package connected to the green/resilience papers by Rimawi et al. |
+| [CrossDomainEvaluation](CrossDomainEvaluation)                           | Replication package for cross-domain evaluation of transformer-based vulnerability detection on open and industry data. This is an additional package in the collection beyond the papers listed above. |
+| [MADE-WIC](MADE-WIC)                                                     | Lightweight support folder for downloading the MADE-WIC dataset used by other vulnerability-related experiments. |
 | [MicroservicesPerformanceAssessment](MicroservicesPerformanceAssessment) | Replication package for the microservices scalability and decomposition study. It includes raw experiment logs, cleaned datasets, and performance-comparison scripts. |
-| [MultitaskCommentClassification](MultitaskCommentClassification) | Replication package for code comment classification under class imbalance, including transformer-based and multi-task learning experiments. |
-| [MultitaskVulnerabilityDetection](MultitaskVulnerabilityDetection) | Replication package for multi-task learning on vulnerability and SATD detection, including model code, scripts, and manual annotation data. |
+| [MultitaskCommentClassification](MultitaskCommentClassification)         | Replication package for code comment classification under class imbalance, including transformer-based and multi-task learning experiments. |
+| [MultitaskVulnerabilityDetection](MultitaskVulnerabilityDetection)       | Replication package for multi-task learning on vulnerability and SATD detection, including model code, scripts, and manual annotation data. |
 
