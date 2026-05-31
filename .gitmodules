@@ -1,3 +1,21 @@
 [submodule "AITDD"]
 	path = AITDD
 	url = https://github.com/moritzmock/AI4TDD.git
+[submodule "CrossDomainEvaluation"]
+	path = CrossDomainEvaluation
+	url = https://github.com/CybersecurityLab-unibz/cross_domain_evaluation.git
+[submodule "MultitaskVulnerabilityDetection"]
+	path = MultitaskVulnerabilityDetection
+	url = https://github.com/moritzmock/multitask-vulberability-detection.git
+[submodule "MultitaskCommentClassification"]
+	path = MultitaskCommentClassification
+	url = https://github.com/moritzmock/NLBSE2025.git
+[submodule "CAIS-DMA"]
+	path = CAIS-DMA
+	url = https://github.com/dmrimawi/CAIS-DMA.git
+[submodule "Attack2VUL"]
+	path = Attack2VUL
+	url = https://github.com/ref3t/Attack2VUL.git
+[submodule "MicroservicesPerformanceAssessment"]
+	path = MicroservicesPerformanceAssessment
+	url = https://github.com/zerodayshack/Microservices-Performance-Assessment.git
