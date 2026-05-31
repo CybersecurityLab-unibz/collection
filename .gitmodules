@@ -19,3 +19,6 @@
 [submodule "MicroservicesPerformanceAssessment"]
 	path = MicroservicesPerformanceAssessment
 	url = https://github.com/zerodayshack/Microservices-Performance-Assessment.git
+[submodule "AI4TTD"]
+	path = AI4TTD
+	url = https://github.com/moritzmock/AI4TDD.git
