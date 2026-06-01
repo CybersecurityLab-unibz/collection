@@ -1,6 +1,3 @@
-[submodule "AITDD"]
-	path = AITDD
-	url = https://github.com/moritzmock/AI4TDD.git
 [submodule "CrossDomainEvaluation"]
 	path = CrossDomainEvaluation
 	url = https://github.com/CybersecurityLab-unibz/cross_domain_evaluation.git
