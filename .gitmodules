@@ -25,3 +25,9 @@
 [submodule "BeyondBalance"]
 	path = BeyondBalance
 	url = https://github.com/CybersecurityLab-unibz/beyondBalance.git
+[submodule "TC-ACN"]
+	path = TC-ACN
+	url = https://github.com/CybersecurityLab-unibz/TC-ACN.git
+[submodule "VulnerabilityExtractionMethods"]
+	path = VulnerabilityExtractionMethods
+	url = https://github.com/ref3t/VulnerabilityExtractionMethods.git
