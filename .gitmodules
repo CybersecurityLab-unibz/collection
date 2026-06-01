@@ -22,3 +22,6 @@
 [submodule "AI4TTD"]
 	path = AI4TTD
 	url = https://github.com/moritzmock/AI4TDD.git
+[submodule "BeyondBalance"]
+	path = BeyondBalance
+	url = https://github.com/CybersecurityLab-unibz/beyondBalance.git
